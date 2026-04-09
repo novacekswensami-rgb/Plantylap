@@ -1,7 +1,5 @@
-{
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {}
-}{
+npm install
+npm run dev{
   "name": "app",
   "version": "0.0.0",
   "lockfileVersion": 3,
